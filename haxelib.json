@@ -1,0 +1,10 @@
+{
+    "name": "depath",
+    "url": "https://github.com/vantreeseba/depath",
+    "license":"MIT",
+    "tags": [""],
+    "description": "Pathfinding algorithms written in haxe",
+    "version": "0.1.0",
+    "contributors": ["Benjamin Van Treese"],
+    "dependencies": {}
+}

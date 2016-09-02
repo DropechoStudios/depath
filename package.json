@@ -1,0 +1,36 @@
+{
+    "name": "depath",
+    "description": "Pathfinding algorithms written in haxe",
+    "version": "0.1.0",
+    "homepage": "https://github.com/vantreeseba/depath",
+    "author": {
+        "name": "Benjamin Van Treese",
+        "email": "vantreeseba@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vantreeseba/depath.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vantreeseba/depath/issues"
+    },
+    "licenses": [{
+        "type" : "MIT",
+        "url" : "https://github.com///blob/master/LICENSE"
+    }],
+    "main": "artifacts/depath.js",
+    "scripts": {
+        "build": "gulp build",
+        "test": "gulp test"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "gulp":"*",
+        "gulp-shell":"*",
+        "mkdirp":"*"
+    },
+    "keywords": [
+        "slushgenerator"
+    ]
+}
